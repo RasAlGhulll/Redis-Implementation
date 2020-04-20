@@ -6,7 +6,7 @@
 
 3.python3 -m venv env
 
-4.source env/bin/activate
+4.source venv/bin/activate
 
 5.pip3 install -r requirements.txt
 
